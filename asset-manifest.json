@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/recalender/static/css/main.9db026ae.chunk.css",
+    "main.js": "/recalender/static/js/main.53e91169.chunk.js",
+    "main.js.map": "/recalender/static/js/main.53e91169.chunk.js.map",
+    "runtime-main.js": "/recalender/static/js/runtime-main.b0d9f5cc.js",
+    "runtime-main.js.map": "/recalender/static/js/runtime-main.b0d9f5cc.js.map",
+    "static/js/2.65db809d.chunk.js": "/recalender/static/js/2.65db809d.chunk.js",
+    "static/js/2.65db809d.chunk.js.map": "/recalender/static/js/2.65db809d.chunk.js.map",
+    "index.html": "/recalender/index.html",
+    "static/css/main.9db026ae.chunk.css.map": "/recalender/static/css/main.9db026ae.chunk.css.map",
+    "static/js/2.65db809d.chunk.js.LICENSE.txt": "/recalender/static/js/2.65db809d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/recalender/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0d9f5cc.js",
+    "static/js/2.65db809d.chunk.js",
+    "static/css/main.9db026ae.chunk.css",
+    "static/js/main.53e91169.chunk.js"
+  ]
+}

@@ -2,7 +2,7 @@
 
 A basic weekly calender created using react
 
-##Future Features
+## Future Features
 
 -Caching data
 -Restruct how the data is stored

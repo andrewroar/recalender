@@ -1,0 +1,28 @@
+.event-frame {
+  position: relative;
+}
+
+.event-word-container {
+  position: absolute;
+  color: #ffffff;
+  top: -25px;
+  font-size: 9px;
+  width: 90%;
+  padding: 0 5px 0 5px;
+  background-color: blue;
+  height: 50px;
+  border: 1px white solid;
+  border-radius: 5px;
+  z-index: auto;
+
+  white-space: nowrap;
+  overflow: hidden !important;
+  text-overflow: ellipsis;
+}
+.event-word-container p {
+  margin-top: -5px;
+}
+
+.hide {
+  display: none;
+}
